@@ -7,4 +7,4 @@ Table of Contents
 
  . Week 1
 
-   .Day 1
+   	.Day 1
