@@ -1,6 +1,6 @@
-#Gift Ojaigho's Note
+Gift Ojaigho's Note
 
-#Summary
+Summary
 This repository contains all of the notes taken by Gift Ojaigho for the Lighthouse Labs Web Development Bootcamp.
 
 Table of Contents
